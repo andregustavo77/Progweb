@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "academico", "academico.csproj", "{386B215C-2683-177B-4F3B-7A353D558C66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academico", "Academico.csproj", "{386B215C-2683-177B-4F3B-7A353D558C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +19,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25A379F8-4755-4C85-AACD-A62E92418D8D}
+		SolutionGuid = {8D79CAAA-10AF-491A-8E51-4DC5CCB1C851}
 	EndGlobalSection
 EndGlobal
